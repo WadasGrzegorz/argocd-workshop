@@ -30,3 +30,4 @@ spec:
     syncOptions:
       - ApplyOutOfSyncOnly=true
       - PruneLast=true
+      - CreateNamespace=true
