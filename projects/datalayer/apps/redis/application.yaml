@@ -11,6 +11,7 @@ spec:
   project: datalayer
   revisionHistoryLimit: 0
   source:
+    repoURL: https://github.com/WadasGrzegorz/argocd-workshop
     targetRevision: main
     path: ./projects/datalayer/apps/redis/resources
   destination:
