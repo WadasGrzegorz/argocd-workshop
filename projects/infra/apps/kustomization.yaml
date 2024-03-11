@@ -1,0 +1,5 @@
+resources:
+  - ./ingress-nginx
+  - ./cert-manager
+  - ./reflector
+  - ./argocd-image-updater

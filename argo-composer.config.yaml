@@ -1,0 +1,5 @@
+name: argocd-workshop
+repoUrl: https://github.com/WadasGrzegorz/argocd-workshop
+environments: 
+  - dev
+  - prod
